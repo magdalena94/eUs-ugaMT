@@ -1,4 +1,4 @@
-Elektroniczne Usługi Publiczne
+Elektroniczne Usługi Publiczne kopytko
 
 
 - [ ] eUsluga_pub.md|ja|29 czerwca|
@@ -10,3 +10,4 @@ Elektroniczną Platformę Usług Administracji Publicznej
 Profil Zaufany
 
 - [ ] eUsluga_PZ.md|ja| 07 lipca|
+
